@@ -1,6 +1,6 @@
 <!-- JSONLab.vue -->
 <template>
-<ChildComponent msg="Hello Child" msg2="Hello 2"/>
+<ChildComponent msg="Hello Child" msg2="Hello 3"/>
   <div class="json-lab">
     <h1>🗄️ JSON Data & Vue Directives Lab</h1>
 
